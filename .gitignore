@@ -1,0 +1,17 @@
+#user
+user/node_modules/
+user/bower_components/
+user/coverage/
+user/.sass-cache/
+user/.idea/
+user/.tmp/
+user/dist/
+
+#admin
+admin/node_modules/
+admin/bower_components/
+admin/coverage/
+admin/.sass-cache/
+admin/.idea/
+admin/.tmp/
+admin/dist/
